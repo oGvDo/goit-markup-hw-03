@@ -68,10 +68,10 @@ img {
 }
 .header-logo {
   padding: 24px 0;
+  margin-right: 76px;
 }
 .logo-header {
   color: #2e2f42;
-  margin-right: 76px;
 }
 .menu {
   display: flex;
